@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+#### I will start coding and developing a complete landing-page by ReactJS.
+##### Let's play with each other.
+
 ## Available Scripts
 
 In the project directory, you can run:

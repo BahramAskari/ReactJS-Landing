@@ -2,6 +2,11 @@
   "name": "landing",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name" : "Bahram Askari",
+    "email": "bahram.askari97@gmail.com",
+    "nickName": "Raam"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
